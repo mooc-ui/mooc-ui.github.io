@@ -1,10 +1,10 @@
 # Site settings
 title: 嵌入式博客空间
-SEOTitle: 三叶草国际语 - 让沟通更容易
+SEOTitle: 科技改变生活
 header-img: img/post-bg-desk.jpg
 email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+description: "了解前沿科技"
+keyword: "嵌入式, 数字货币， AI技术"
 url: "https://mooc-ui.github.io"          # your host, for absolute URL
 baseurl: ""      # empty for root domain
 github_repo: "https://github.com/mooc-ui/mooc-ui.github.io.git" # you code repository
