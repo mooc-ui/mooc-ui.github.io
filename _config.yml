@@ -62,9 +62,9 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: d18b343dd9c7ca49518a                            #生成的clientID
-  clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: tianwanjie    #仓库名称
+  clientID: Ov23lieOyrr6oucCZSmb                            #生成的clientID
+  clientSecret: 29d65ac8d01341cecb4946226070995e95e183da    #生成的clientSecret
+  repo: mooc-ui.github.io    #仓库名称
   owner: mooc-ui    #github用户名
   admin: mooc-ui
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
